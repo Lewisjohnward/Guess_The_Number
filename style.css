@@ -1,0 +1,13 @@
+.main-div {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    width: 400px;
+}
+
+.game {
+    text-align: center;
+}
